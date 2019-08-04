@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "910142361073",
+    "firebase_url": "https://skype-clone-462fc.firebaseio.com",
+    "project_id": "skype-clone-462fc",
+    "storage_bucket": "skype-clone-462fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910142361073:android:01b247ba1f9314f9",
+        "android_client_info": {
+          "package_name": "me.shackox.skypeclone.flutter_skpe_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910142361073-0b5qtssom7btf6rd1jp8l69bmp8h6rkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.shackox.skypeclone.flutter_skpe_clone",
+            "certificate_hash": "157a74d881dff3ad5ad1d7057243b60c4c8d0ae1"
+          }
+        },
+        {
+          "client_id": "910142361073-8lm6vrgg7uqe2ukhd9oto4eg66jfmco5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8fgQVDysafudY8MraGhQrj3t2uPdqCSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910142361073-8lm6vrgg7uqe2ukhd9oto4eg66jfmco5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
